@@ -1,6 +1,6 @@
 class Binary
   def initialize(x)
-  
+    @x = x
   end
 
 
